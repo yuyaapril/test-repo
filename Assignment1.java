@@ -1,6 +1,6 @@
 public class Assignment1 {
     public static void main(String[] args) {
-
+        //Assignment1
         // Using Java Data Types to describe myself
         String name = "Yu Nandar Hlaing";  // String data type
         int age = 25;                      // int data type
